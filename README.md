@@ -12,5 +12,6 @@ I help businesses with:
 
 ## Projects
 - **[LaserCut DXF Generator](https://github.com/eslam-tohamy2026/lasercut-dxf-generator)** — Generate ready-to-cut DXF files for laser cutting & CNC: finger-joint boxes, involute spur gears, brackets. Pure Python, zero dependencies.
+- **[Offline PDF Toolbox](https://github.com/eslam-tohamy2026/offline-pdf-toolbox)** — Merge, split, rotate & reorder PDFs — 100% offline, zero permissions.
 
 
