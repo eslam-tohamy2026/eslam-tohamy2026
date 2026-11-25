@@ -14,3 +14,4 @@ I help businesses with:
 - **[LaserCut DXF Generator](https://github.com/eslam-tohamy2026/lasercut-dxf-generator)** — Generate ready-to-cut DXF files for laser cutting & CNC: finger-joint boxes, involute spur gears, brackets. Pure Python, zero dependencies.
 - **[Offline PDF Toolbox](https://github.com/eslam-tohamy2026/offline-pdf-toolbox)** — Merge, split, rotate & reorder PDFs — 100% offline, zero permissions.
 - **[Maker File Previewer](https://github.com/eslam-tohamy2026/maker-file-previewer)** — Preview DXF and STL files in the browser, with measurement, layers and 3D view.
+- **[Session Vault](https://github.com/eslam-tohamy2026/session-vault)** — Tab session manager that never loses a tab: continuous auto-save, three verified copies, crash recovery. Free forever.
