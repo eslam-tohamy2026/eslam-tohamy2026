@@ -9,3 +9,8 @@ I help businesses with:
 📺 I also build kids' learning videos on YouTube: UmiSpark Labs — https://www.youtube.com/@UmiSparkLabs
 
 🛠️ SolidWorks · AutoCAD · Excel VBA
+
+## Projects
+- **[LaserCut DXF Generator](https://github.com/eslam-tohamy2026/lasercut-dxf-generator)** — Generate ready-to-cut DXF files for laser cutting & CNC: finger-joint boxes, involute spur gears, brackets. Pure Python, zero dependencies.
+
+
