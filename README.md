@@ -11,9 +11,7 @@ I help businesses with:
 🛠️ SolidWorks · AutoCAD · Excel VBA
 
 ## Projects
-- **[LaserCut DXF Generator](https://github.com/eslam-tohamy2026/lasercut-dxf-generator)** — Generate ready-to-cut DXF files for laser cutting & CNC: finger-joint boxes, involute spur gears, brackets. Pure Python, zero dependencies.
 - **[Offline PDF Toolbox](https://github.com/eslam-tohamy2026/offline-pdf-toolbox)** — Merge, split, rotate & reorder PDFs — 100% offline, zero permissions. Undo/redo, split into separate files, image pages.
-- **[Maker File Previewer](https://github.com/eslam-tohamy2026/maker-file-previewer)** — Preview DXF and STL files in the browser, with measurement, layers and 3D view. Radius measure, STL surface area & watertight check.
 - **[Session Vault](https://github.com/eslam-tohamy2026/session-vault)** — Tab session manager that never loses a tab: continuous auto-save, three verified copies, crash recovery. Granular restore, tags, full search. Free forever.
 - **[saylint](https://github.com/eslam-tohamy2026/saylint)** — Check what a text-to-speech engine will actually say before you record: numbers, dates, symbols, pacing. Offline, Arabic-aware, with SSML export.
 - **[splitget](https://github.com/eslam-tohamy2026/splitget)** — IDM-style download manager: segmented multi-connection downloads, pause/resume that survives a crash, checksums, speed limits. Local web UI + CLI, zero dependencies.
